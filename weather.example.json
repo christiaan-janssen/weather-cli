@@ -1,0 +1,42 @@
+{
+  "coord": {
+    "lon": 4.48,
+    "lat": 52.16
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 11.07,
+    "pressure": 1001,
+    "humidity": 57,
+    "temp_min": 10,
+    "temp_max": 12.22
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 5.1,
+    "deg": 80
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1555993330,
+  "sys": {
+    "type": 1,
+    "id": 1541,
+    "message": 0.0076,
+    "country": "NL",
+    "sunrise": 1555993711,
+    "sunset": 1556045523
+  },
+  "id": 2751773,
+  "name": "Leiden",
+  "cod": 200
+}
